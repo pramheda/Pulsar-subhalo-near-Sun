@@ -1,0 +1,29 @@
+{
+  "catalogue": {
+    "repository": "https://github.com/thomasdonlon/Empirical_Model_MSP_Spindown_Accels",
+    "commit": "6cb4e31f6b2e732f5973b024634507c2e4f59988",
+    "licence": "none stated; not redistributed",
+    "files": [
+      {
+        "remote": "v1/data.csv",
+        "local": "inputs/donlon_v1_data.csv",
+        "url": "https://raw.githubusercontent.com/thomasdonlon/Empirical_Model_MSP_Spindown_Accels/6cb4e31f6b2e732f5973b024634507c2e4f59988/v1/data.csv",
+        "bytes": 15726,
+        "sha256": "cdb4d34fcd8800a9b3ca1b1367f33acf35b65bb1550720cee989d5a9594d2ea0"
+      },
+      {
+        "remote": "v3/data.csv",
+        "local": "inputs/donlon_v3_data.csv",
+        "url": "https://raw.githubusercontent.com/thomasdonlon/Empirical_Model_MSP_Spindown_Accels/6cb4e31f6b2e732f5973b024634507c2e4f59988/v3/data.csv",
+        "bytes": 14347,
+        "sha256": "35a03b5db490fc90ec0360d06b6bc8046e4df4eb8b436dabc0001a1a5ca59e02"
+      }
+    ]
+  },
+  "paper": {
+    "arxiv_html": "https://arxiv.org/html/2507.16932v3",
+    "retrieved_page_sha256": "dc75076c7fde6367eb2672d7629d779a8430134def19b3ab1c03f284ff4cea8b",
+    "doi": "10.1103/29xz-nt5z",
+    "note": "Only short quotations are kept, in sources/chakrabarti2026_quotes.md."
+  }
+}

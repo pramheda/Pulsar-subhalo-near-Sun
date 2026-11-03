@@ -1,0 +1,2 @@
+# Only needed to redraw the figure (scripts/plot_selection.py). Tested with Python 3.12.3.
+matplotlib==3.11.1
